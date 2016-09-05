@@ -15,7 +15,7 @@ example/vendor/*
 .idea
 
 # publish
-keo.js
+# keo.js
 redux.js
 
 # example
